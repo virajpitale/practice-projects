@@ -20,6 +20,8 @@ This project is a practice exercise in my Natural Language Processing (NLP) jour
 
 The dataset comprises labeled news articles categorized as "Fake" or "Real." This data is used to train and test the classification model.
 
+**Credits:** The dataset used in this project is sourced from [Kaggle: Fake and Real News Dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset) by Clément Bisaillon.
+
 ## Installation
 
 Ensure you have the required Python libraries installed to run this project.
